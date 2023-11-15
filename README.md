@@ -24,11 +24,10 @@ https://docs.google.com/spreadsheets/d/1ZqVBw1lVZxytNaSOYxnxnoCeVR2NIEvW/edit#gi
 El proyecto de testing está enfocado en el servicio de correo electrónico de Google, GMAIL, y se divide en varios módulos clave, incluyendo el módulo de Login, Redacción, Bandeja de Entrada, y Papelera.
 
 
-Testing de Funcionalidad
+.Testing de Funcionalidad.
 Garantizar que todas las funciones principales, como iniciar sesión, redactar y enviar correos, y gestionar la bandeja de entrada, funcionen correctamente.
 
-
-Testing de Usabilidad
+.Testing de Usabilidad.
 Evaluar la facilidad de uso de la interfaz de usuario y la navegación dentro del servicio de correo electrónico.
 
 
