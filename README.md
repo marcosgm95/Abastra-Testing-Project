@@ -27,6 +27,7 @@ Tipos de Testing:
 
 Testing de Funcionalidad:
 Garantizar que todas las funciones principales, como iniciar sesión, redactar y enviar correos, y gestionar la bandeja de entrada, funcionen correctamente.
+
 Testing de Usabilidad:
 Evaluar la facilidad de uso de la interfaz de usuario y la navegación dentro del servicio de correo electrónico.
 
