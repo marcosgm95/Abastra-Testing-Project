@@ -32,4 +32,10 @@ Evaluar la facilidad de uso de la interfaz de usuario y la navegación dentro de
 
 
 
+<h2>Test Cases Models</h2>
+
+https://docs.google.com/spreadsheets/d/1LTZ3VAjP-0VzOVStp7dCoNMJjS2DPjY4/edit#gid=1352832677.
+
+El enfoque principal es garantizar la funcionalidad, seguridad y usabilidad de estos sistemas mediante un proceso de testing estructurado.
+Es un proyecto personal, acerca de ideas y funcionalidades que fui encontrando durante mi formación y aprendizaje.
 
