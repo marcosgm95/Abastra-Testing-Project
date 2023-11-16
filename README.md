@@ -39,3 +39,23 @@ https://docs.google.com/spreadsheets/d/1LTZ3VAjP-0VzOVStp7dCoNMJjS2DPjY4/edit#gi
 El enfoque principal es garantizar la funcionalidad, seguridad y usabilidad de estos sistemas mediante un proceso de testing estructurado.
 Es un proyecto personal, acerca de ideas y funcionalidades que fui encontrando durante mi formación y aprendizaje.
 
+
+<h2>Football Scout Project</h2>
+
+https://docs.google.com/spreadsheets/d/1D0J90qBDbVoD4p7JRfB2SgeSRC2qOwg6/edit#gid=1992682884
+
+Este proyecto se centra en asegurar que las funciones clave, como el inicio de sesión y la adición de jugadores, operen de manera correcta y segura. 
+
+
+<h2>Nexchar Project</h2>
+
+https://docs.google.com/spreadsheets/d/1UqVyF9xjgqZ8je5z9IOIsWjy4FfNqs-L/edit#gid=1419612477.
+
+Este proyecto de pruebas tiene como objetivo asegurar la confiabilidad y eficiencia del módulo de inicio de sesión en el sistema Nexchar. A través de un conjunto de escenarios y casos de prueba, se busca evaluar la funcionalidad del sistema al ingresar datos correctos en el formulario de inicio de sesión.
+
+Tipo de Testing:
+
+El enfoque principal de este proyecto es el testing de funcionalidad del módulo de inicio de sesión
+
+
+
