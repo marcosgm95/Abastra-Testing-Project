@@ -58,4 +58,8 @@ Tipo de Testing:
 El enfoque principal de este proyecto es el testing de funcionalidad del módulo de inicio de sesión
 
 
+<h2>Demo testing proyecto final </h2>
 
+https://docs.google.com/spreadsheets/d/1WdxTT49xLJM8jdstHXxI2JoELRi66lXj/edit#gid=1634132762
+
+El tipo de testing principal es el testing funcional, que se centra en asegurar que las funciones del sistema, especialmente las relacionadas con el inicio de sesión y la búsqueda de vuelos, operen según lo esperado. Además, se realiza testing de interfaz de usuario para verificar la usabilidad y apariencia del sistema.
